@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TCP_client/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "XORCipher": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TCP_client.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCP_client.dll": {}
+        }
+      },
+      "XORCipher/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/XORCipher.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/XORCipher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCP_client/1.0.0": {
+      "type": "project",
+      "path": "../TCP_client/TCP_client.csproj",
+      "msbuildProject": "../TCP_client/TCP_client.csproj"
+    },
+    "XORCipher/1.0.0": {
+      "type": "project",
+      "path": "../XORCipher/XORCipher.csproj",
+      "msbuildProject": "../XORCipher/XORCipher.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TCP_client >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nikit\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\Client_2\\Client_2.csproj",
+      "projectName": "Client_2",
+      "projectPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\Client_2\\Client_2.csproj",
+      "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\Client_2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\TCP_client\\TCP_client.csproj": {
+              "projectPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\TCP_client\\TCP_client.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
