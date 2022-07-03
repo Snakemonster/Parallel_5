@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_1", "Client_1\Client
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_2", "Client_2\Client_2.csproj", "{7BD3F8C8-63D6-409F-B247-2E4AF58A5D1C}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "XORCipher FS", "XORCipher FS\XORCipher FS.fsproj", "{DBCEE84A-D0B7-4D5A-A71E-43F39D815E32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{7BD3F8C8-63D6-409F-B247-2E4AF58A5D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BD3F8C8-63D6-409F-B247-2E4AF58A5D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BD3F8C8-63D6-409F-B247-2E4AF58A5D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCEE84A-D0B7-4D5A-A71E-43F39D815E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCEE84A-D0B7-4D5A-A71E-43F39D815E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCEE84A-D0B7-4D5A-A71E-43F39D815E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCEE84A-D0B7-4D5A-A71E-43F39D815E32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

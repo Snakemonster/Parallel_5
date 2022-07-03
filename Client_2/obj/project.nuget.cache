@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8HlzL5h3ASbRbC1t+6Mbo+0J6f1Cpdgpocbdgqby7BOd9NqcdHMgQf50K7HkCaXGP/7nH0wsp6R/PIs8H7tdSg==",
+  "dgSpecHash": "trGWKXopGnZn3Ia/cjD0NVPRz+xIoqK7LcAnZPz/d7+r3+v16GiiZnRxQ/PoRZnhkkpbVEkadHcidD53S2szig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\Client_2\\Client_2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\Client_2\\Client_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

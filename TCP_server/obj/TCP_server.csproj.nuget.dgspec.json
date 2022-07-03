@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\TCP_server\\TCP_server.csproj": {}
+    "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\TCP_server\\TCP_server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\TCP_server\\TCP_server.csproj": {
+    "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\TCP_server\\TCP_server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\TCP_server\\TCP_server.csproj",
+        "projectUniqueName": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\TCP_server\\TCP_server.csproj",
         "projectName": "TCP_server",
-        "projectPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\TCP_server\\TCP_server.csproj",
+        "projectPath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\TCP_server\\TCP_server.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\TCP_server\\obj\\",
+        "outputPath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\TCP_server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\XORCipher.csproj": {
-                "projectPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\XORCipher.csproj"
+              "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher FS\\XORCipher FS.fsproj": {
+                "projectPath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher FS\\XORCipher FS.fsproj"
               }
             }
           }
@@ -58,18 +58,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\XORCipher.csproj": {
+    "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher FS\\XORCipher FS.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\XORCipher.csproj",
-        "projectName": "XORCipher",
-        "projectPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\XORCipher.csproj",
+        "projectUniqueName": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher FS\\XORCipher FS.fsproj",
+        "projectName": "XORCipher FS",
+        "projectPath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher FS\\XORCipher FS.fsproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\obj\\",
+        "outputPath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher FS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -80,6 +80,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\6.0.301\\FSharp\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -87,16 +88,19 @@
             "targetAlias": "net6.0",
             "projectReferences": {}
           }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.5, )",
+              "generatePathProperty": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -112,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

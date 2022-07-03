@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "usFe84N4WnPotHbKCd0JruxcA63RMBEVIEJ+nG52qF5TxU9G+ha/CxjwvNZY190wXYh4ME8/b923OgxNqWNHtg==",
+  "dgSpecHash": "YHGG46zl3fZjbIZUbpzQZWbAes6/YM9mwJKz8juJP0QARfZFsR+ioZFKfUSrqLSY9bo1Hg0DBWZdubZ6/EcW3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\TCP_client\\TCP_client.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\TCP_client\\TCP_client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

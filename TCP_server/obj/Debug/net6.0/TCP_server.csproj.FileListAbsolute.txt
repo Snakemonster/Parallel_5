@@ -16,3 +16,36 @@ C:\Users\nikit\source\RiderProjects\Parallel 5 lab\TCP_server\obj\Debug\net6.0\r
 C:\Users\nikit\source\RiderProjects\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.pdb
 C:\Users\nikit\source\RiderProjects\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.genruntimeconfig.cache
 C:\Users\nikit\source\RiderProjects\Parallel 5 lab\TCP_server\obj\Debug\net6.0\ref\TCP_server.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\TCP_server.exe
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\TCP_server.deps.json
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\TCP_server.runtimeconfig.json
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\TCP_server.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\TCP_server.pdb
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\XORCipher FS.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\XORCipher FS.pdb
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\bin\Debug\net6.0\XORCipher FS.xml
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.csproj.AssemblyReference.cache
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.AssemblyInfoInputs.cache
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.AssemblyInfo.cs
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.csproj.CopyComplete
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\refint\TCP_server.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.pdb
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\TCP_server.genruntimeconfig.cache
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\TCP_server\obj\Debug\net6.0\ref\TCP_server.dll

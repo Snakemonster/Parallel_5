@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\XORCipher\XORCipher.csproj" />
+      <ProjectReference Include="..\XORCipher FS\XORCipher FS.fsproj" />
     </ItemGroup>
 
 </Project>

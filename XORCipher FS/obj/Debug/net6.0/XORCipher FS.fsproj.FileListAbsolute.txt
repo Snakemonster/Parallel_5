@@ -1,0 +1,10 @@
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\bin\Debug\net6.0\XORCipher FS.deps.json
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\bin\Debug\net6.0\XORCipher FS.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\bin\Debug\net6.0\XORCipher FS.pdb
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\bin\Debug\net6.0\XORCipher FS.xml
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.fsproj.AssemblyReference.cache
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.AssemblyInfoInputs.cache
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.AssemblyInfo.fs
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.xml
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.pdb

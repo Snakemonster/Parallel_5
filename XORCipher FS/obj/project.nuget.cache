@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/enro4z8yHM3ecuKzzLdQ05T7IBuGKx+z96D4jBANt7WqFCI1kA6oZpsgbdq2INsTO3kVjTd/NWb0Im4OSm4Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher FS\\XORCipher FS.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

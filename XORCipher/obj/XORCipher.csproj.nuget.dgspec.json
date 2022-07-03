@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\XORCipher.csproj": {}
+    "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher\\XORCipher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\XORCipher.csproj": {
+    "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher\\XORCipher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\XORCipher.csproj",
+        "projectUniqueName": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher\\XORCipher.csproj",
         "projectName": "XORCipher",
-        "projectPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\XORCipher.csproj",
+        "projectPath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher\\XORCipher.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikit\\source\\RiderProjects\\Parallel 5 lab\\XORCipher\\obj\\",
+        "outputPath": "C:\\Users\\nikit\\Loli_Tex\\3rd_course\\2 semester\\Parallel\\Parallel 5 lab\\XORCipher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

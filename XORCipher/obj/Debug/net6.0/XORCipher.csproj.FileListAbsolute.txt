@@ -10,3 +10,15 @@ C:\Users\nikit\source\RiderProjects\Parallel 5 lab\XORCipher\obj\Debug\net6.0\XO
 C:\Users\nikit\source\RiderProjects\Parallel 5 lab\XORCipher\obj\Debug\net6.0\refint\XORCipher.dll
 C:\Users\nikit\source\RiderProjects\Parallel 5 lab\XORCipher\obj\Debug\net6.0\XORCipher.pdb
 C:\Users\nikit\source\RiderProjects\Parallel 5 lab\XORCipher\obj\Debug\net6.0\ref\XORCipher.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\bin\Debug\net6.0\XORCipher.deps.json
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\bin\Debug\net6.0\XORCipher.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\bin\Debug\net6.0\XORCipher.pdb
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\obj\Debug\net6.0\XORCipher.csproj.AssemblyReference.cache
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\obj\Debug\net6.0\XORCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\obj\Debug\net6.0\XORCipher.AssemblyInfoInputs.cache
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\obj\Debug\net6.0\XORCipher.AssemblyInfo.cs
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\obj\Debug\net6.0\XORCipher.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\obj\Debug\net6.0\XORCipher.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\obj\Debug\net6.0\refint\XORCipher.dll
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\obj\Debug\net6.0\XORCipher.pdb
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher\obj\Debug\net6.0\ref\XORCipher.dll

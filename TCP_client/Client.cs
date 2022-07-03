@@ -1,7 +1,6 @@
 ﻿using System.Net.Sockets;
 using System.Text;
-using XORCipher;
-
+using XORCipher_FS;
 
 namespace TCP_client;
 
@@ -14,7 +13,7 @@ public class Client
 
     private TcpClient _client;
     private NetworkStream _stream;
-    private XorCipher _cipher;
+    private XORCipher _cipher;
     
     public Client(string name, string password, string server = "127.0.0.1", int port = 8888)
     {
@@ -25,7 +24,7 @@ public class Client
 
         _client = new TcpClient();
         _stream = null;
-        _cipher = new XorCipher();
+        _cipher = new XORCipher();
     }
 
     public void RunCLient()

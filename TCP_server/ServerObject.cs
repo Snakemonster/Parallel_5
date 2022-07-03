@@ -1,7 +1,7 @@
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using XORCipher;
+using XORCipher_FS;
 
 
 namespace TCP_test;
@@ -10,13 +10,13 @@ public class ServerObject
 {
     private TcpListener _tcpListener;
     private List<ClientObject> _clients = new();
-    public XorCipher Cipher { get; private set; }
+    public XORCipher_FS.XORCipher Cipher { get; private set; }
     protected internal readonly string _password;
 
     public ServerObject()
     {
         Console.WriteLine();
-        _password = XorCipher.GetRandomKey(553463, 38);
+        _password = XORCipher.GetRandomKey(553463, 38);
         Console.WriteLine($"Password is {_password}\nNobody tell it!\n");
     }
     protected internal void AddConnection(ClientObject clientObject)
@@ -37,7 +37,7 @@ public class ServerObject
         {
             _tcpListener = new TcpListener(IPAddress.Any, 8888);
             _tcpListener.Start();
-            Cipher = new XorCipher();
+            Cipher = new XORCipher();
             
             Console.WriteLine("Server is started. Waiting for connections...");
             
