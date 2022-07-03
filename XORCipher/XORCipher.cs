@@ -6,19 +6,13 @@ public class XorCipher
     {
         var gamma = string.Empty;
         var rnd = new Random(key);
-        for (int i = 0; i < length; i++)
-        {
-            gamma += (char)rnd.Next(35, 126);
-        }
+        for (int i = 0; i < length; i++) gamma += (char)rnd.Next(35, 126);
         return gamma;
     }
     private string GetRepeatKey(string s, int n)
     {
         var r = s;
-        while (r.Length < n)
-        {
-            r += r;
-        }
+        while (r.Length < n) r += r;
         return r.Substring(0, n);
     }
 
@@ -26,11 +20,7 @@ public class XorCipher
     {
         var currentKey = GetRepeatKey(secretKey, text.Length);
         var res = string.Empty;
-        for (var i = 0; i < text.Length; i++)
-        {
-            res += (char)(text[i] ^ currentKey[i]);
-        }
-
+        for (var i = 0; i < text.Length; i++) res += (char)(text[i] ^ currentKey[i]);
         return res;
     }
 
