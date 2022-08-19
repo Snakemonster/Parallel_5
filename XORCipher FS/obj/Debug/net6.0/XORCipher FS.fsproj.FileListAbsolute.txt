@@ -8,3 +8,4 @@ C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher 
 C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.dll
 C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.xml
 C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.pdb
+C:\Users\nikit\Loli_Tex\3rd_course\2 semester\Parallel\Parallel 5 lab\XORCipher FS\obj\Debug\net6.0\XORCipher FS.fsproj.CoreCompileInputs.cache
