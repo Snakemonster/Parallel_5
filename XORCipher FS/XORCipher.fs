@@ -11,7 +11,7 @@ type public XORCipher() =
     
     member private this.GetRepeatKey(s:string) (n:int) =
         let r = StringBuilder(s)
-        while r.Length < n do r.Append(r)
+        while r.Length < n do r.Append(r) |> ignore
         r.ToString().Substring(0, n)
     
     member private this.Cipher(text: string) (secretKey: string) =
